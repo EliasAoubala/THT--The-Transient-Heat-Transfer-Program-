@@ -19,7 +19,7 @@ This will return a graph containing the transient temperatures at the set times 
 - **BC**: This specifies the Boundary Conditions of the problem to be analysed
   - Format: ***[Fo, t_end, ht, t1, t2, t3, etc...]***
 
-The main Function can be found at ['Matlab Function/OneDimentionalHeatTransfer.m'](OneDimentionalHeatTransfer.m).
+The main Function can be found at ['Matlab Function/OneDimentionalHeatTransfer.m'](Matlab%20Function/OneDimentionalHeatTransfer.m).
 
-An Example Program is also included titled "Example_1.m" found at ['Example Program/Example_1.m'](Untitled2.m).
+An Example Program is also included titled "Example_1.m" found at ['Example Program/Example_1.m'](Example%20Program/Untitled2.m).
 
